@@ -1,2 +1,4 @@
 REQUIREMENTS:
 -venv
+-numpy
+-matplotlib
