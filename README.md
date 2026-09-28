@@ -16,7 +16,7 @@ A 3D projectile simulator for 17th/18th century weapons: muskets, flintlock pist
 
 ## Weapon parameters
 
-| Weapon | Mass | Muzzle velocity | Diameter | Source |
+| Weapon | Projectile Mass | Muzzle velocity | Diameter | Source |
 |---|---|---|---|---|
 | Musket | 17.4 g | 450 m/s | 14 mm | Dug-bullet records, colchestertreasurehunting.co.uk |
 | Pistol | 14.5 g | 385 m/s | 13.5 mm | Dug-bullet records, colchestertreasurehunting.co.uk |
