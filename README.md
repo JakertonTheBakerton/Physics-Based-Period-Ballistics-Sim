@@ -21,7 +21,7 @@ A 3D projectile simulator for 17th/18th century weapons: muskets, flintlock pist
 | Musket | 17.4 g | 450 m/s | 14 mm | Dug-bullet records, colchestertreasurehunting.co.uk |
 | Pistol | 14.5 g | 385 m/s | 13.5 mm | Dug-bullet records, colchestertreasurehunting.co.uk |
 | Crossbow | 60 g | 75 m/s | 9 mm | **Estimate** (no reliable period bolt data found) |
-| Bow | 102 g | 47.23 m/s | 11 mm shaft | Soar, Gibbs, Jury & Stretton (2010) chronographed test of a 144 lbf yew bow; arrow diameter cross-referenced with Mary Rose data |
+| Bow | 102 g | 47 m/s | 11 mm shaft | Soar, Gibbs, Jury & Stretton (2010) chronographed test of a 144 lbf yew bow; arrow diameter cross-referenced with Mary Rose data |
 
 Estimated values are labelled as such in the docstrings rather than presented as sourced data. The bow's fletching area (0.0108 m²) is also an unsourced estimate.
 
