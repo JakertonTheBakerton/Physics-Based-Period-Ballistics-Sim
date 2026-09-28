@@ -84,5 +84,5 @@ Remaining: optimal-angle sweep, visualisation, and final polish.
 
 TBD
 
-###Note:
+### Note:
 References are incomplete
